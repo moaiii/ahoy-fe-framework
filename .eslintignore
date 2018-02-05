@@ -1,0 +1,7 @@
+node_modules
+native-base-theme
+.expo
+assets
+
+App.test.js
+package.json
